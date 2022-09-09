@@ -6,11 +6,11 @@ Click on the CV/Resume on the repository, or directly below, right-click "Save l
 
 |Date                         | Company        | Title                                                               | Details                                       |  
 |-----------------------------|----------------|---------------------------------------------------------------------|-----------------------------------------------|
-|**June 2010 - Present**      |Microsoft Canada                                                                                                                      |
+|__**June 2010 - Present**__  |__**Microsoft Canada**__                                                                                                              |
 |July 2022 - Present          |                |Cloud Solutions Architect                                            |                                               |
 |September 2011 – July 2022   |                |Customer Engineer – Dedicated to Government of Canada (11+ years)    |                                               |
 |June 2010 – September 2011   |                |Premier Field Engineer – All customers Canada-wide (1 year, 4 months)|                                               |
-|**October 1999 - June 2010** |Microsoft France|                                                                     |                                               |
+|__**October 1999 - June 2010**__ |__**Microsoft France**__|                                                         |                                               |
 |May 2009 – June 2010         |                |Technical Account Manager (TAM) – Finance sector (1 year)            |                                               |
 |May 2006 to May 2009         |                |Consultant (Microsoft Consulting Services) (3 years)                 |                                               |
 |September 2003 to May 2006   |                |Premier Field Engineer – Messaging and Directory (3 years)           |                                               |
