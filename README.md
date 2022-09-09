@@ -6,7 +6,7 @@ Click on the CV/Resume on the repository, or directly below, right-click "Save l
 
 |Date                         | Company        | Title                                                               | Details                                       |  
 |-----------------------------|----------------|---------------------------------------------------------------------|-----------------------------------------------|
-|**June 2010 - Present**      |Microsoft Canada|                                                                     |                                               |
+|**June 2010 - Present**      |Microsoft Canada                                                                                                                      |
 |July 2022 - Present          |                |Cloud Solutions Architect                                            |                                               |
 |September 2011 – July 2022   |                |Customer Engineer – Dedicated to Government of Canada (11+ years)    |                                               |
 |June 2010 – September 2011   |                |Premier Field Engineer – All customers Canada-wide (1 year, 4 months)|                                               |
